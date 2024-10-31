@@ -7,6 +7,6 @@ I'm a budding developer diving into advanced web development. I’m excited abou
 - 📂 **Projects**:
   - **E-commerce Website**: Currently Still In Development.
 - 🚀 **Goals**: Master full-stack web development and contribute to meaningful open-source projects.
-- 📫 **Contact**: Connect with me via [Email](mailto:trantuananbussiness@gmail.com) or [Facebook]([https://www.facebook.com/profile.php?id=100083664115695]).
+- 📫 **Contact**: Connect with me via [Email](mailto:trantuananbussiness@gmail.com) or [Facebook](https://www.facebook.com/profile.php?id=100083664115695).
 
 Thanks for visiting, and feel free to connect as I grow my skills!
